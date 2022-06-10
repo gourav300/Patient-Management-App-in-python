@@ -19,4 +19,4 @@ This application consists of three parts
 This application is offline and free to use, anyone can download the zip folder and just double click on PMA_jm2.exe to start the application no installation required.
 All your records are stored locally on your machine in folder PMA_jm2.
 
-Compatible with Windows 7 and above 64 bit architecture
+Compatible with Windows 7 and above - 64 bit architecture
