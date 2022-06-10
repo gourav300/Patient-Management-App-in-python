@@ -1,6 +1,8 @@
 # Patient-Management-App-in-python-with-sqlite
 This is a free to use python based gui patient management app for Homoeopathy doctors to effectively manage records and case history of their patients. For more info watch this tutorial video - https://www.youtube.com/watch?v=7ZNtj3108pM&t=90s
 
+Patient Management App Download link - https://drive.google.com/file/d/1zeg1a4ZgzkId6ET8WBwVxwe_QdgYPE80/view?usp=sharing
+
 ![image](https://user-images.githubusercontent.com/76821297/173075639-bbaf9ab0-f61d-4fa9-9b5d-26845ab7214d.png)
 
 First things first "This Application is dedicated to my sister, she is the inspiration behind this software which comprises of over 1500 lines of code."
